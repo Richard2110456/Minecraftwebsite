@@ -6,3 +6,6 @@ img{
 p{
    font-size: 18px;
 } 
+.left-float{
+    float: left;
+}
